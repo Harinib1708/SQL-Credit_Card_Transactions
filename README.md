@@ -2,7 +2,7 @@
 In this project, we analyze credit card transactions to assess performance and usage patterns across different card types and expense categories. The dataset spans from April 10, 2014, to September 9, 2014, and includes four card types—Silver, Signature, Gold, and Platinum—as well as six expense categories: Entertainment, Food, Bills, Fuel, Travel, and Grocery. This analysis provides insights into spending behaviors and preferences across these dimensions.
 
 ## Data Source 
-The dataset used includes transactions from the `credit_card_transactions` table, with data spanning from April 10, 2014, to September 9, 2014. The dataset covers four distinct card types: Silver, Signature, Gold, and Platinum. It also includes six expense types: Entertainment, Food, Bills, Fuel, Travel, and Grocery.
+The dataset used includes transactions from the credit_card_transactions table, with data spanning from April 10, 2014, to September 9, 2014. The dataset covers four distinct card types: Silver, Signature, Gold, and Platinum. It also includes six expense types: Entertainment, Food, Bills, Fuel, Travel, and Grocery.
 
 ## Insights and Results
 - Greater Mumbai and Bengaluru lead in credit card spends, contributing 14.15% and 14.05% of total spends.
